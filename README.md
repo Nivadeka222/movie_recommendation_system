@@ -196,10 +196,3 @@ Contributions are welcome! Here's how to get started:
 5. Open a Pull Request
 
 
-<div align="center">
-
-Made with ❤️ by [Nivadeka222](https://github.com/Nivadeka222)
-
-⭐ **Star this repo if you found it helpful!**
-
-</div>
